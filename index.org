@@ -1,3 +1,5 @@
+#+OPTIONS: toc:nil 
+
 #+BEGIN_HTML
 ---
 title: Course in org mode
