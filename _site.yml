@@ -3,9 +3,9 @@ navbar:
   title: "Programación y análisis de datos en R"
   left:
     - text: "Home"
-      href: index.html
+      href: index.md
     - text: "About"
-      href: about.html
+      href: about.md
 output:
   html_document:
     theme: jekyll-theme-tactile
