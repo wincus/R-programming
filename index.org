@@ -1,0 +1,7 @@
+#+BEGIN_HTML
+---
+title: Course in org mode
+---
+#+END_HTML
+
+* let's try to export his to markdown
