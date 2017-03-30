@@ -1,11 +1,15 @@
-name: "my-website"
+name: "Programación y análisis de datos en R"
 navbar:
-  title: "My Website"
+  title: "Programación y análisis de datos en R"
   left:
     - text: "Home"
-      href: index.Rmd
+      href: index.html
     - text: "About"
-      href: about.Rmd
-
-
-
+      href: about.html
+output:
+  html_document:
+    theme: jekyll-theme-tactile
+    highlight: textmate
+    include:
+      after_body: footer.html
+#    css: styles.css             
