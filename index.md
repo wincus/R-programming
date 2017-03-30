@@ -1,4 +1,3 @@
-title: Course in org mode
 
 
 # let's try to export his to markdown

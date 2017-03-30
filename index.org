@@ -1,6 +1,5 @@
+#+title: Programación y análisis de datos en R con aplicaciones científicas - 2017
 #+OPTIONS: toc:nil 
-
-title: Course in org mode
 
 * let's try to export his to markdown
  - now we are talking
