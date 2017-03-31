@@ -1,7 +1,3 @@
----
-layout: post
-title: test post with yaml source block frontmatter 
----
 
 
 # let's try to export his to markdown
