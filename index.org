@@ -3,6 +3,6 @@
 
 * let's try to export his to markdown
  - now we are talking
- - [[file:about.Rmd][about link]]
+ - [[file:about.html][about link]]
 
  
