@@ -2,13 +2,13 @@
 #+STARTUP: showall expand
 #+options: toc:nil
 
-#+begin_src yaml :exports results :results value html
-  ---
-  title: test post with yaml source block frontmatter 
-  layout: default
-  ---
-#+end_src
-#+results:
+# #+begin_src yaml :exports results :results value html
+#   ---
+#   title: test post with yaml source block frontmatter 
+#   layout: default
+#   ---
+# #+end_src
+# #+results:
 
 * let's try to export his to markdown
  - now we are talking
