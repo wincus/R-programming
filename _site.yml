@@ -4,18 +4,18 @@ navbar:
   title: "Programación y análisis de datos en R"
   left:
     - text: "Home"
-      href: index.html
+      href: index.md
     - text: "Clases"
-      href: classes.html
-    - text: "Más recursos"
-      href: more-resources.html
+      href: classes.md
+    - text: "Recursos"
+      href: resources.md
   right:
     - text: "About"
-      href: about.html
+      href: about.md
 output:
   html_document:
-    theme: flatly
-    highlight: textmate
+    theme: cayman
+#     highlight: textmate
     includes:
       after_body: footer.html
 #    css: styles.css             
