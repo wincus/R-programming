@@ -1,3 +1,7 @@
+---
+title: test post with yaml source block frontmatter 
+layout: default
+---
 
 
 # let's try to export his to markdown
