@@ -1,5 +1,18 @@
 #+title: Programación y análisis de datos en R con aplicaciones científicas - 2017
-#+OPTIONS: toc:nil 
+#+STARTUP: showall expand
+#+options: toc:nil
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: post
+  title: test post with yaml source block frontmatter
+  gallery:
+    path: abc123
+    images:
+      - blah.png
+      - bloo.png
+  ---
+#+end_src
+#+results:
 
 * let's try to export his to markdown
  - now we are talking
