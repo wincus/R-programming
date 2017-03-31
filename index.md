@@ -1,11 +1,6 @@
 ---
 layout: post
-title: test post with yaml source block frontmatter
-gallery:
-  path: abc123
-  images:
-    - blah.png
-    - bloo.png
+title: test post with yaml source block frontmatter 
 ---
 
 
