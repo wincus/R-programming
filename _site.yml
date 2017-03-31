@@ -1,15 +1,21 @@
 name: "Programación y análisis de datos en R"
+output_dir: "."
 navbar:
   title: "Programación y análisis de datos en R"
   left:
     - text: "Home"
-      href: index.md
+      href: index.html
+    - text: "Clases"
+      href: classes.html
+    - text: "Más recursos"
+      href: more-resources.html
+  right:
     - text: "About"
-      href: about.md
+      href: about.html
 output:
   html_document:
-    theme: jekyll-theme-tactile
+    theme: flatly
     highlight: textmate
-    include:
+    includes:
       after_body: footer.html
 #    css: styles.css             
